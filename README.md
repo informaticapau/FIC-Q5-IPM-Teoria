@@ -1,1 +1,2 @@
-# FIC-Q5-IPM-Teoria
+# Interfaces Persoa Máquina
+Apuntes de teoría de la asignatura Interfaces Persona Máquina
